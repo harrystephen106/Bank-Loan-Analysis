@@ -1,71 +1,93 @@
-Bank Loan Analysis
-📌 Project Overview
+# Bank Loan Analysis
+
+## 📌 Project Overview
+ 
 This project aims to analyze bank loan data to gain insights into loan approval trends, risk assessment, and customer profiling. The analysis includes data cleaning, SQL queries, statistical analysis, and visualization using Power BI.
 
-📂 Project Structure
-Bank Loan Report page.pbix - Power BI dashboard for visual analysis.
+## 📂 Project Structure
 
-Bank Loan data cleaning.ipynb - Jupyter Notebook for data preprocessing.
+1. Bank Loan Report page.pbix - Power BI dashboard for visual analysis.
 
-Bank Loan dataset.csv - Raw dataset used for analysis.
+2. Bank Loan data cleaning.ipynb - Jupyter Notebook for data preprocessing.
 
-Bank Loan pre SQLQuery.sql - SQL queries for data extraction and transformation.
+3. Bank Loan dataset.csv - Raw dataset used for analysis.
 
-Bank loan work Doc.docx - Project documentation.
+4. Bank Loan pre SQLQuery.sql - SQL queries for data extraction and transformation.
 
-Solution1.ssmssln - SQL Server solution file.
+5. Bank loan work Doc.docx - Project documentation.
 
-📊 Tools & Technologies
-Excel - Initial data exploration.
+6. Solution1.ssmssln - SQL Server solution file.
 
-Python (Jupyter Notebook) - Data preprocessing and statistical analysis.
+## 📊 Tools & Technologies
 
-SQL Server - Data storage and query execution.
+- Excel - Initial data exploration.
 
-Power BI - Data visualization and reporting.
+- Python (Jupyter Notebook) - Data preprocessing and statistical analysis.
 
-🚀 How to Run the Project
-Data Preparation:
+- SQL Server - Data storage and query execution.
 
-Open Bank Loan data cleaning.ipynb in Jupyter Notebook and run the preprocessing steps.
+- Power BI - Data visualization and reporting.
 
-Load Bank Loan dataset.csv into SQL Server.
+## 🚀 How to Run the Project
 
-Execute Bank Loan pre SQLQuery.sql to clean and transform the data.
+### Data Preparation:
 
-Analysis & Visualization:
+- [x] Open Bank Loan data cleaning.ipynb in Jupyter Notebook and run the preprocessing steps.
 
-And connect SQL Serve into Power BI Desktop in Get data.
+- [x] Load Bank Loan dataset.csv into SQL Server.
 
-Open Bank Loan Report page.pbix in Power BI to explore insights.
+- [x] Execute Bank Loan pre SQLQuery.sql to clean and transform the data.
 
-🛠 Installation & Setup
+### Analysis & Visualization:
 
-Clone the Repository
-git clone https://github.com/your-username/Bank-Loan-Analysis.git
-cd Bank-Loan-Analysis
+- [x] And connect SQL Serve into Power BI Desktop in Get data.
 
-Set Up Python Environment
-Install required libraries:
-pip install pandas numpy matplotlib seaborn
-Open Bank Loan data cleaning.ipynb in Jupyter Notebook and run all cells.
+- [x] Open Bank Loan Report page.pbix in Power BI to explore insights.
 
-SQL Database Setup
-Install SQL Server.
-Import Bank Loan dataset.csv into SQL Server.
-Run Bank Loan pre SQLQuery.sql to clean and transform the data.
+## 🛠 Built With 
 
-Power BI Report
-Install Power BI Desktop.
-Open Bank Loan Report page.pbix to explore visual insights.
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 
-📢 Key Insights
-Identified key factors affecting loan approval.
+## 🛠 Installation & Setup
 
-Risk segmentation based on customer profiles.
+### Clone the Repository
 
-Interactive Power BI dashboard with visual insights.
+- [x] git clone https://github.com/your-username/Bank-Loan-Analysis.git
 
-📬 Contact
-For any questions or collaborations, feel free to connect!
-Linkedin-:https://www.linkedin.com/in/s-harry-antony-stephen-a4a373256/
+- [x] cd Bank-Loan-Analysis
+
+### Set Up Python Environment
+
+- [x] Install required libraries:
+
+- pip install pandas numpy matplotlib seaborn
+
+- Open Bank Loan data cleaning.ipynb in Jupyter Notebook and run all cells.
+
+### SQL Database Setup
+
+- [x] Install SQL Server.
+
+- Import Bank Loan dataset.csv into SQL Server.
+
+- Run Bank Loan pre SQLQuery.sql to clean and transform the data.
+
+### Power BI Report
+
+- [x] Install Power BI Desktop.
+
+- Open Bank Loan Report page.pbix to explore visual insights.
+
+## 📢 Key Insights
+
+- Identified key factors affecting loan approval.
+
+- Risk segmentation based on customer profiles.
+
+- Interactive Power BI dashboard with visual insights.
+
+## 📬 Contact
+
+- For any questions or collaborations, feel free to connect!
+
+1. Linkedin-:https://www.linkedin.com/in/s-harry-antony-stephen-a4a373256/
