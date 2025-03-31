@@ -81,22 +81,37 @@ This project aims to analyze bank loan data to gain insights into loan approval 
 ## 📸 Screenshorts:
 
 <p align="center">
- <strong> 1. Summary Page </strong>
+ <strong> Load & Cleanig Data </strong>
 </p>
 
-![Project Screenshot](image/summary.png)
+![ Screenshot](image/loadfile.png)
+
+
+![ Screenshot](image/missing-vlaue.png)
 
 <p align="center">
-  <strong> 2. Overview Page </strong>
+ <strong> SQL Pre-Measured </strong>
 </p>
 
-![Project Screenshot](image/overview.png)
+![ Screenshot](image/pre-measured.png)
 
 <p align="center">
-  <strong> 3. Details Page </strong>
+ <strong> Summary Page </strong>
 </p>
 
-![Project Screenshot](image/details.png)
+![ Screenshot](image/summary.png)
+
+<p align="center">
+  <strong> Overview Page </strong>
+</p>
+
+![Screenshot](image/overview.png)
+
+<p align="center">
+  <strong> Details Page </strong>
+</p>
+
+![Screenshot](image/details.png)
 
 ## 📢 Key Insights
 
