@@ -78,6 +78,26 @@ This project aims to analyze bank loan data to gain insights into loan approval 
 
 - Open Bank Loan Report page.pbix to explore visual insights.
 
+## 📸 Screenshorts:
+
+<p align="center">
+ <strong> 1. Summary Page </strong>
+</p>
+
+![Project Screenshot](image/summary.png)
+
+<p align="center">
+  <strong> 2. Overview Page </strong>
+</p>
+
+![Project Screenshot](image/overview.png)
+
+<p align="center">
+  <strong> 3. Details Page </strong>
+</p>
+
+![Project Screenshot](image/details.png)
+
 ## 📢 Key Insights
 
 - Identified key factors affecting loan approval.
